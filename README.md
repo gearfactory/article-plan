@@ -1,3 +1,3 @@
-# 文章编写计划
+# Gear Factory Labs
 
-在这里，你们可以看到我们所有文章等待编写的计划，和编写的大纲
+you can see the all work progress about the projects in this orgnization use RFC format!
